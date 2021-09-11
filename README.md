@@ -1,4 +1,4 @@
-# TITULO DEL POYECTO: PacMen-Excercise
+# TITULO DEL PROYECTO: PacMen-Excercise
 
 <!--
 **ernesto nieves ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Feel free to copy and change what you need it.
